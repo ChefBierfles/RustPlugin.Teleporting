@@ -1,0 +1,78 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Teleporting_System</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Accessibility">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Accessibility.dll</HintPath>
+    </Reference>
+    <Reference Include="ApexAI">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\ApexAI.dll</HintPath>
+    </Reference>
+    <Reference Include="ApexSerialization">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\ApexSerialization.dll</HintPath>
+    </Reference>
+    <Reference Include="ApexShared">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\ApexShared.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="CurvedTextMeshPro">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\CurvedTextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="DelaunayER">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\DelaunayER.dll</HintPath>
+    </Reference>
+    <Reference Include="DryWetMidi">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\DryWetMidi.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.System">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Facepunch.System.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.UnityEngine">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Facepunch.UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.Core">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.CSharp">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.Ext.Discord">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.Ext.Discord.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.Ext.RustEdit">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.Ext.RustEdit.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.MySql">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.MySql.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.References">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.References.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.Rust">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.Rust.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.SQLite">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.Unity">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\Oxide.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\..\..\..\RustyServerInstall\RustServer\RustDedicated_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
